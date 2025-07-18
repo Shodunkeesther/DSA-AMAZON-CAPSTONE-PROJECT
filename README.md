@@ -41,4 +41,7 @@ EDA involves the exploring of Data to answer some questions about the Data such 
 
 This involved the implementation of formulas for analyzing Data.
 
+## Amazon MS Excel Project Link
+
+https://docs.google.com/spreadsheets/d/11dYvLeHErQ7LvJ2-Xf5_rRcAliYSIVtY/edit?usp=drive_link&ouid=101585133963922664934&rtpof=true&sd=true
 
