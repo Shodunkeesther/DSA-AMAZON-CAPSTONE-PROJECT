@@ -21,8 +21,19 @@ The primary source of data used is Amazon case study.xlsx from DSA CAPSTONE PROJ
 
 ## Data Cleaning and Preparation
 
-In the initial phase of the Data cleaning and preparations, the following were performed!
+In the initial phase of the Data cleaning and preparations, the following were performed:
 - Data loading and inspection
 - Handling missing variables
 - Data cleaning and formating
+
+## Exploratory Data Analysis
+
+EDA involves the exploring of Data to answer some questions about the Data such as:
+- Total products
+- Average rating
+- Products less than 1000 reviews
+- Products above 50%
+- Total numbers of reviews
+- Average discounted price
+- Total potential revenue
 
