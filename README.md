@@ -35,5 +35,10 @@ EDA involves the exploring of Data to answer some questions about the Data such 
 - Products above 50%
 - Total numbers of reviews
 - Average discounted price
+
+
+## Data Analysis
+
+This involved the implementation of formulas for analyzing Data.
 - Total potential revenue
 
