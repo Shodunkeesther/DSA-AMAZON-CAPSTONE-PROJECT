@@ -10,3 +10,10 @@ This project involved developing a comprehensive and interactive Amazon Product 
 # Data Source
 
 The primary source of data used is Amazon case study.xlsx from DSA CAPSTONE PROJECT FILE
+
+# TOOL USED
+- Data cleaning
+- Data collection
+- Building of pivot table
+- Building of the Dashboard
+
