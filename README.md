@@ -20,7 +20,7 @@ The primary source of data used is Amazon case study.xlsx from DSA CAPSTONE PROJ
 - Building of the Dashboard
 
 ## Data Cleaning and Preparation
--Data loading and inspection
--Handling missing variables
--Data cleaning and formating
+- Data loading and inspection
+- Handling missing variables
+- Data cleaning and formating
 
