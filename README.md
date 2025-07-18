@@ -7,7 +7,7 @@ Hey everyone! I'm incredibly excited to share my first project given to me from 
 
 ## Project Overview
 
-This project involved developing a comprehensive and interactive Amazon Product Review Analysis Dashboard using Microsoft Excel. The dashboard transforms raw customer review data into actionable business intelligence, providing key insights into product performance, customer feedback, and potential revenue opportunities. It serves as a dynamic tool for data-driven decision-making in product management and marketing strategies. ![Dashboard Full View](images/dashboard_full_view.png)
+This project involved developing a comprehensive and interactive Amazon Product Review Analysis Dashboard using Microsoft Excel. The dashboard transforms raw customer review data into actionable business intelligence, providing key insights into product performance, customer feedback, and potential revenue opportunities. It serves as a dynamic tool for data-driven decision-making in product management and marketing strategies.
 
 ## Data Source
 
@@ -18,4 +18,9 @@ The primary source of data used is Amazon case study.xlsx from DSA CAPSTONE PROJ
 - Data collection
 - Building of pivot table
 - Building of the Dashboard
+
+## Data Cleaning and Preparation
+-Data loading and inspection
+-Handling missing variables
+-Data cleaning and formating
 
