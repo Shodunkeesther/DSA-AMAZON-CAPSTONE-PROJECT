@@ -14,12 +14,14 @@ This project involved developing a comprehensive and interactive Amazon Product 
 The primary source of data used is Amazon case study.xlsx from DSA CAPSTONE PROJECT FILE
 
 ## Tools used
-- Data cleaning
-- Data collection
-- Building of pivot table
-- Building of the Dashboard
+- Data cleaning with MS EXCEL
+- Data collection with MS EXCEL
+- Building of pivot table with MS EXCEL
+- Building of the Dashboard with MS EXCEL
 
 ## Data Cleaning and Preparation
+
+In the initial phase of the Data cleaning and preparations, the following were performed!
 - Data loading and inspection
 - Handling missing variables
 - Data cleaning and formating
